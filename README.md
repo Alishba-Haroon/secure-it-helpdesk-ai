@@ -266,9 +266,11 @@ EMBEDDING_MODEL=nomic-embed-text
 
 ---
 
-# 📜 License
+## 📄 License
 
-This project is developed for educational, portfolio, and learning purposes.
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for complete license details.
 
 ---
 
