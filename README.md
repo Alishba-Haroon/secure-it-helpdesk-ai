@@ -63,7 +63,6 @@ secure-it-helpdesk-ai/
 ├── tests/
 ├── frontend.html
 ├── requirements.txt
-├── docker-compose.yml
 ├── README.md
 └── .gitignore
 ```
@@ -267,28 +266,9 @@ EMBEDDING_MODEL=nomic-embed-text
 
 ---
 
-# 👩‍💻 Author
-
-**Alishba Haroon**
-
-BS Artificial Intelligence
-
-Superior University, Lahore
-
-GitHub
-
-https://github.com/Alishba-Haroon
-
-LinkedIn
-
-https://www.linkedin.com/in/alishba-haroon/
-
----
-
 # 📜 License
 
 This project is developed for educational, portfolio, and learning purposes.
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star on GitHub!
