@@ -1,7 +1,6 @@
 # 🛠️ Secure IT Helpdesk AI
 
 An AI-powered IT Helpdesk system built with **FastAPI**, **LangChain**, and **Ollama**. The application allows users to create and manage IT support tickets while interacting with an AI chatbot powered by Retrieval-Augmented Generation (RAG) for intelligent troubleshooting.
-
 ---
 
 ## ✨ Features
